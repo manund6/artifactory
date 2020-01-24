@@ -11,12 +11,7 @@
   <name>mod2</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
-
- <parent>
-  <groupId>gavenahally</groupId>
-  <artifactId>manu</artifactId>
-  <version>1.0-SNAPSHOT</version>
- </parent>   
+  
 
  <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
